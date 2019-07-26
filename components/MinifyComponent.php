@@ -2,18 +2,18 @@
 /**
  * Minify.php
  * @author Revin Roman
- * @link https://rmrevin.com
+ * @link https://mix8872.com
  */
 
-namespace rmrevin\yii\minify\components;
+namespace mix8872\yii\minify\components;
 
-use rmrevin\yii\minify\View;
+use mix8872\yii\minify\View;
 use yii\caching\Cache;
 use yii\caching\TagDependency;
 
 /**
  * Class MinifyComponent
- * @package rmrevin\yii\minify\components
+ * @package mix8872\yii\minify\components
  */
 abstract class MinifyComponent
 {

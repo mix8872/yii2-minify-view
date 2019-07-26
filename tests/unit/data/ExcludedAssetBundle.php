@@ -2,16 +2,16 @@
 /**
  * ExcludedAssetBundle.php
  * @author Revin Roman
- * @link https://rmrevin.com
+ * @link https://mix8872.com
  */
 
-namespace rmrevin\yii\minify\tests\unit\data;
+namespace mix8872\yii\minify\tests\unit\data;
 
 use yii\web\AssetBundle;
 
 /**
  * Class ExcludedAssetBundle
- * @package rmrevin\yii\minify\tests\unit\data
+ * @package mix8872\yii\minify\tests\unit\data
  */
 class ExcludedAssetBundle extends AssetBundle
 {

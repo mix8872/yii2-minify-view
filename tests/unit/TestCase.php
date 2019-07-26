@@ -2,17 +2,17 @@
 /**
  * TestCase.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify\tests\unit;
+namespace mix8872\yii\minify\tests\unit;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\FileHelper;
 
 /**
  * Class TestCase
- * @package rmrevin\yii\fontawesome\tests\unit
+ * @package mix8872\yii\fontawesome\tests\unit
  * This is the base class for all yii framework unit tests.
  */
 abstract class TestCase extends \PHPUnit\Framework\TestCase

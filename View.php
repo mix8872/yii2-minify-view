@@ -2,10 +2,10 @@
 /**
  * View.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify;
+namespace mix8872\yii\minify;
 
 use yii\base\Event;
 use yii\helpers\FileHelper;
@@ -14,7 +14,7 @@ use yii\web\Response;
 
 /**
  * Class View
- * @package rmrevin\yii\minify
+ * @package mix8872\yii\minify
  */
 class View extends \yii\web\View
 {
@@ -139,7 +139,7 @@ class View extends \yii\web\View
     public $cache;
 
     /**
-     * @throws \rmrevin\yii\minify\Exception
+     * @throws \mix8872\yii\minify\Exception
      * @throws \yii\base\InvalidConfigException
      * @throws \yii\base\InvalidParamException
      * @throws \yii\base\Exception

@@ -2,17 +2,17 @@
 /**
  * TestAssetBundle.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify\tests\unit\data;
+namespace mix8872\yii\minify\tests\unit\data;
 
 use yii\web\AssetBundle;
 use yii\web\View;
 
 /**
  * Class TestAssetBundle
- * @package rmrevin\yii\minify\tests\unit\data
+ * @package mix8872\yii\minify\tests\unit\data
  */
 class TestAssetBundle extends AssetBundle
 {
@@ -34,7 +34,7 @@ class TestAssetBundle extends AssetBundle
     ];
 
     public $depends = [
-        'rmrevin\yii\minify\tests\unit\data\DependAssetBundle',
+        'mix8872\yii\minify\tests\unit\data\DependAssetBundle',
     ];
 
     public function init()

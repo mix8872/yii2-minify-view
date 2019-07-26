@@ -2,17 +2,17 @@
 /**
  * HtmlCompressorTest.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify\tests\unit\view;
+namespace mix8872\yii\minify\tests\unit\view;
 
-use rmrevin\yii\minify\HtmlCompressor;
-use rmrevin\yii\minify\tests\unit\TestCase;
+use mix8872\yii\minify\HtmlCompressor;
+use mix8872\yii\minify\tests\unit\TestCase;
 
 /**
  * Class HtmlCompressorTest
- * @package rmrevin\yii\minify\tests\unit\view
+ * @package mix8872\yii\minify\tests\unit\view
  */
 class HtmlCompressorTest extends TestCase
 {

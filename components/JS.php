@@ -2,17 +2,17 @@
 /**
  * JS.php
  * @author Revin Roman
- * @link https://rmrevin.com
+ * @link https://mix8872.com
  */
 
-namespace rmrevin\yii\minify\components;
+namespace mix8872\yii\minify\components;
 
 use JSMin\JSMin;
 use yii\helpers\Html;
 
 /**
  * Class JS
- * @package rmrevin\yii\minify\components
+ * @package mix8872\yii\minify\components
  */
 class JS extends MinifyComponent
 {

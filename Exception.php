@@ -2,14 +2,14 @@
 /**
  * Exception.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify;
+namespace mix8872\yii\minify;
 
 /**
  * Class Exception
- * @package rmrevin\yii\minify
+ * @package mix8872\yii\minify
  */
 class Exception extends \yii\base\Exception
 {

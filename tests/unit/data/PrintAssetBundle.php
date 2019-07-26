@@ -2,16 +2,16 @@
 /**
  * PrintAssetBundle.php
  * @author Revin Roman
- * @link https://rmrevin.ru
+ * @link https://mix8872.ru
  */
 
-namespace rmrevin\yii\minify\tests\unit\data;
+namespace mix8872\yii\minify\tests\unit\data;
 
 use yii\web\AssetBundle;
 
 /**
  * Class TestAssetBundle
- * @package rmrevin\yii\minify\tests\unit\data
+ * @package mix8872\yii\minify\tests\unit\data
  */
 class PrintAssetBundle extends AssetBundle
 {

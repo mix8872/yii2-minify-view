@@ -4,14 +4,14 @@
  * @created 2017-12-22
  */
 
-namespace rmrevin\yii\minify\tests\unit\data;
+namespace mix8872\yii\minify\tests\unit\data;
 
 use yii\web\AssetBundle;
 use yii\web\View;
 
 /**
  * Class CommentsAssetBundle
- * @package rmrevin\yii\minify\tests\unit\data
+ * @package mix8872\yii\minify\tests\unit\data
  */
 class CommentsAssetBundle extends AssetBundle
 {

@@ -2,16 +2,16 @@
 /**
  * CSS.php
  * @author Revin Roman
- * @link https://rmrevin.com
+ * @link https://mix8872.com
  */
 
-namespace rmrevin\yii\minify\components;
+namespace mix8872\yii\minify\components;
 
 use yii\helpers\Html;
 
 /**
  * Class CSS
- * @package rmrevin\yii\minify\components
+ * @package mix8872\yii\minify\components
  */
 class CSS extends MinifyComponent
 {
@@ -91,7 +91,7 @@ class CSS extends MinifyComponent
 
                 if (isset($m[0])) {
                     foreach ((array)$m[0] as $k => $v) {
-                        if (in_array(strpos($m[1][$k], 'data:'), [0, 1], true)) {
+                        if (strpos($m[1][$k], '#') === 0 || in_array(strpos($m[1][$k], 'data:'), [0, 1], true)) {
                             continue;
                         }
 
