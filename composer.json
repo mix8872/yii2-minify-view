@@ -1,5 +1,5 @@
 {
-  "name": "rmrevin/yii2-minify-view",
+  "name": "mix8872/yii2-minify-view",
   "description": "Yii2 View component with auto minification css & js in runtime",
   "keywords": [
     "yii2",
@@ -12,15 +12,15 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "support": {
-    "issues": "https://github.com/rmrevin/yii2-minify-view/issues?state=open",
-    "wiki": "https://github.com/rmrevin/yii2-minify-view/wiki",
-    "source": "https://github.com/rmrevin/yii2-minify-view"
+    "issues": "https://github.com/mix8872/yii2-minify-view/issues?state=open",
+    "wiki": "https://github.com/mix8872/yii2-minify-view/wiki",
+    "source": "https://github.com/mix8872/yii2-minify-view"
   },
   "authors": [
     {
       "name": "Revin Roman",
-      "email": "roman@rmrevin.com",
-      "homepage": "https://rmrevin.com/"
+      "email": "roman@mix8872.com",
+      "homepage": "https://mix8872.com/"
     }
   ],
   "require": {
@@ -29,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "rmrevin\\yii\\minify\\": ""
+      "mix8872\\yii\\minify\\": ""
     }
   },
   "repositories": [
